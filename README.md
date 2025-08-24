@@ -1,76 +1,44 @@
-📱 BMI Calculator (Android · Kotlin)
+<h1 align="center">📱 BMI Calculator - Android (Kotlin)</h1>
 
-A simple and beautiful Android app written in Kotlin to calculate Body Mass Index (BMI) and classify health status based on WHO standards.
+<p align="center">
+  A simple and modern <b>BMI Calculator</b> built with Kotlin for Android, helping users check their Body Mass Index and stay fit.  
+</p>
 
-✨ Features
+---
 
-⚡ Instant BMI calculation
+## 🛠️ Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue?logo=kotlin)
+![Android](https://img.shields.io/badge/Android-5.0%2B-green?logo=android)
+![Gradle](https://img.shields.io/badge/Gradle-7.0+-orange?logo=gradle)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-📏 Metric units (kg, cm)
+---
 
-🎨 Clean, minimal UI with illustrations
+## ✨ Features
 
-🏷️ BMI classification (Underweight, Normal, Overweight, Obese)
+| Feature | Description |
+|---------|-------------|
+| ⚡ Instant BMI Calculation | Enter height & weight, get BMI instantly |
+| 📏 Metric Units | Supports kg and cm inputs |
+| 🎨 Clean UI | Minimal and modern Android design |
+| 🏷️ BMI Classification | Underweight, Normal, Overweight, Obese |
+| 📊 Clear Results | Easy-to-read categories with health ranges |
+| 🔌 Offline Support | Works fully offline |
 
-📊 Shows results with clear categories
+---
 
-💾 Works fully offline
+## 📱 Screenshots
 
-🛠️ Tech Stack
+<p align="center">
+  <img src="assets/screenshot1.png" width="250"/>
+  <img src="assets/screenshot2.png" width="250"/>
+  <img src="assets/screenshot3.png" width="250"/>
+</p>
 
-Language: Kotlin
+---
 
-UI: Android XML + Material Components
+## 🚀 Installation
 
-Min SDK: 21 (Android 5.0)
-
-IDE: Android Studio
-
-🚀 Installation
-
-Clone this repo:
-
-git clone https://github.com/ErenYeager/BMI-Calculator.git
-cd BMI-Calculator-Kotlin
-
-
-Open the project in Android Studio.
-
-Run the app on an emulator or physical Android device.
-
-📋 Usage
-Enter your weight (kg).
-Enter your height (cm).
-Tap Calculate Your BMI.
-View your BMI result and category instantly.
-
-📐 BMI Formula & Categories
-
-Formula:
-BMI = weight(kg) / (height(m)²)
-
-WHO Categories:
-Category	BMI Range (kg/m²)
-Underweight	< 18.5
-Normal weight	18.5 – 24.9
-Overweight	25.0 – 29.9
-Obese	≥ 30.0
-
-📂 Project Structure
-app/
-├─ java/com/example/bmi
-│  └─ MainActivity.kt
-├─ res/
-│  ├─ layout/activity_main.xml
-│  ├─ drawable/ (icons & illustrations)
-│  ├─ values/strings.xml
-│  └─ values/colors.xml
-└─ AndroidManifest.xml
-
-📜 License
-
-MIT License – free to use, modify, and distribute.
-
-⚠️ Disclaimer
-
-This app is for educational/screening purposes only and should not replace professional medical advice.
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/ErenYeager2004/BMI-Calculator.git
