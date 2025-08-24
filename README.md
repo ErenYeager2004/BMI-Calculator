@@ -30,9 +30,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="250"/>
-  <img src="assets/screenshot2.png" width="250"/>
-  <img src="assets/screenshot3.png" width="250"/>
+  <img src="app/src/main/assets/screenshot1.png" width="250"/>
+  <img src="app/src/main/assets/screenshot2.png" width="250"/>
+  <img src="app/src/main/assets/screenshot3.png" width="250"/>
 </p>
 
 ---
